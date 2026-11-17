@@ -82,4 +82,4 @@ Business Information Technology Student
 North Carolina A&T State University
 
 - [GitHub](https://github.com/dcarter05)
-- [LinkedIn](https://www.linkedin.com/in/dorian-l-carter/)
+- [LinkedIn](https://www.linkedin.com/in/dorian-l-carter)
